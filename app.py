@@ -29,7 +29,6 @@ def potential_fraud():
     return render_template("potential_fraud.html")
 
 
-
 # -----------------------------------------
 # --             APP                     --
 # -----------------------------------------
